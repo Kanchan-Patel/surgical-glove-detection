@@ -70,6 +70,12 @@ RESULTS
 Suitable for production-level automation projects.
 
 ***********************
+RESULTS IMAGES
+***********************
+![1](https://github.com/user-attachments/assets/cc4c38bf-a025-40f9-8421-a7211a08ddf6)
+
+
+***********************
 PROJECT STRUCTURE
 ***********************
 
