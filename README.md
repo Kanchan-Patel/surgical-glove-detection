@@ -33,9 +33,9 @@ TECH STACK
 
 • Python  
 • OpenCV  
-• Deep Learning (YOLO / CNN based detector)  
+• Deep Learning (YOLO)
 • NumPy  
-• Matplotlib  
+ 
 
 ***********************
 DATASET
@@ -63,7 +63,7 @@ Achieved strong detection performance in real-world scenarios.
 RESULTS
 ***********************
 
-✔ High precision glove detection  
+✔ High precision glove detection  (90%+)
 ✔ Low false positives  
 ✔ Smooth real-time performance  
 
@@ -80,18 +80,6 @@ RESULTS IMAGES
 
 
 
-
-
-
-***********************
-PROJECT STRUCTURE
-***********************
-
-dataset/ – training & validation images  
-models/ – trained weights  
-scripts/ – training & inference code  
-results/ – output samples  
-README.md  
 
 ***********************
 USE CASES
@@ -111,15 +99,4 @@ FUTURE IMPROVEMENTS
 • Performance optimization  
 • Dashboard monitoring system  
 
-***********************
-AUTHOR
-***********************
 
-Developed by: Your Name  
-Field: AI, Machine Learning & Computer Vision  
-
-***********************
-LICENSE
-***********************
-
-Open-source for educational and research purposes.
